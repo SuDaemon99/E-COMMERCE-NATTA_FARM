@@ -1,0 +1,93 @@
+.warna1 {
+    background-color: #254336;
+}
+
+.warna2 {
+    background-color: #6B8A7A;
+}
+
+.warna3 {
+    background-color: #B7B597;
+}
+
+.warna4 {
+    background-color: #DAD3BE;
+}
+
+.warna5 {
+    background-color: #597445;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),  url('../image/banner.png');
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-pertanian {
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),  url('../image/pertanian1.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-peternakan {
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),  url('../image/peternakan.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-perkebunan {
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),  url('../image/perkebunan.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-perikanan {
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),  url('../image/perikanan.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover {
+    color: #597445;
+}
+
+.text-harga{
+    font-size: 22px;
+    color: #C80036;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0,0,0,0.7);
+}
+
+.content-subscribe a {
+    color: #ffff;
+}
+
+.banner-produk {
+    height: 70vh;
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),  url('../image/banner.png');
+}
+
+
+
